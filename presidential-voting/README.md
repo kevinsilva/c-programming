@@ -1,12 +1,12 @@
 # Presidential Voting
 
-. In a presidential election there are four candidates. Votes are entered using codes. The data used to count the votes obey the following codification:
+In a presidential election there are four candidates. Votes are entered using codes. The data used to count the votes obey the following codification:
 
 - 1,2,3,4: vote for the respective candidates;
 - 5: blank vote;
 - Other: null vote;
 
-  Write a program that reads candidate code. Calculate and write:
+Write a program that reads candidate code. Calculate and write:
 
 - Total votes for each candidate;
 - Total null votes;
